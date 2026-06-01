@@ -80,7 +80,7 @@ pip install numpy pandas matplotlib scikit-learn
  4. Run the code to see the model performance and visualizations.
 ## 📊 Visualizations
 The project utilizes matplotlib to provide visual representations of the results, such as regression lines, classification boundaries, and clustering centroids, helping to understand how models interpret the data.
-Created with ❤️ by Rudra
-```
 
+```
+Created with ❤️ by Rudra
 ```
