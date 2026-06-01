@@ -67,3 +67,20 @@ To run these scripts, you need Python installed on your system along with the fo
 You can install the dependencies using pip:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+
+```
+## 💻 How to Use
+ 1. Clone the repository:
+   ```bash
+   git clone [https://github.com/rudra520/Machine-learning-with-Scikit-learn.git](https://github.com/rudra520/Machine-learning-with-Scikit-learn.git)
+   
+   ```
+ 2. Navigate to a specific model directory (e.g., Regression).
+ 3. Open the .py or .ipynb file to view the implementation.
+ 4. Run the code to see the model performance and visualizations.
+## 📊 Visualizations
+The project utilizes matplotlib to provide visual representations of the results, such as regression lines, classification boundaries, and clustering centroids, helping to understand how models interpret the data.
+Created with ❤️ by Rudra
+```
+
+```
